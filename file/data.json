@@ -1,0 +1,635 @@
+{
+    "code": 0,
+    "msg": "成功",
+    "body": {
+        "rule": {
+            "BOTTOM_AD": null,
+            "CHOUJIANG": [
+                {
+                    "dealId": "",
+                    "source": "OPPOADSDK",
+                    "startTime": "2020-10-01 00:00:00",
+                    "endTime": "2020-10-31 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [],
+                    "priority": [],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 7198,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "bookPrice": 1
+                }
+            ],
+            "FREE_BOOKDETAIL_AD": [
+                {
+                    "dealId": "",
+                    "source": "OPPOADSDK",
+                    "startTime": "2020-10-01 00:00:00",
+                    "endTime": "2020-10-30 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "162542",
+                        "162543",
+                        "162560"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "162560",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "162542",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "162543",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 5498,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "bookPrice": 1
+                }
+            ],
+            "FREE_SIGN_VIDEO": null,
+            "INSERTCONTENT_BOTTOM": null,
+            "INSERTCONTENT_TOP": null,
+            "LISTENING_PAUSE": [
+                {
+                    "dealId": "",
+                    "source": "PPZT",
+                    "startTime": "2020-10-11 00:00:00",
+                    "endTime": "2020-10-30 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "161966"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "161966",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 5306,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "bookPrice": 1
+                }
+            ],
+            "LISTENING_PLAYING": [
+                {
+                    "dealId": "",
+                    "source": "PPZT",
+                    "startTime": "2020-10-12 00:00:00",
+                    "endTime": "2020-10-21 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "161964"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "161964",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 5307,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "bookPrice": 1
+                }
+            ],
+            "LOCALBOOK_CHAPTEREND": null,
+            "OPPOLLQ_VIDEO_CHAPTEREND_PAY": [
+                {
+                    "dealId": "",
+                    "source": "OPPOADSDK",
+                    "startTime": "2020-09-28 00:00:00",
+                    "endTime": "2020-10-30 00:00:00",
+                    "filterId": 686,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "161873"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "161873",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 7231,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "interval": 40,
+                    "startPage": 0,
+                    "requestPolicyId": 50,
+                    "bookPrice": 1
+                }
+            ],
+            "OPPOLLQ_VIDEO_PAGES_PAY": [
+                {
+                    "dealId": "",
+                    "source": "OPPOADSDK",
+                    "startTime": "2020-09-28 00:00:00",
+                    "endTime": "2020-10-30 00:00:00",
+                    "filterId": 686,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "161873"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "161873",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 7232,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "interval": 100,
+                    "startPage": 50,
+                    "requestPolicyId": 50,
+                    "bookPrice": 1
+                }
+            ],
+            "OPPO_SJ": null,
+            "PAGES": [
+                {
+                    "dealId": "",
+                    "source": "OPPOADSDK",
+                    "startTime": "2020-09-24 00:00:00",
+                    "endTime": "2020-10-30 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "161839",
+                        "161823",
+                        "161826",
+                        "161824",
+                        "161825"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "161839",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161823",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161824",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161825",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161826",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 5398,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "interval": 0,
+                    "startPage": 0,
+                    "bookPrice": 1
+                }
+            ],
+            "POPUP_WELFARE": null,
+            "READ_CPT_END": null,
+            "READ_CPT_TEXT": [
+                {
+                    "dealId": "",
+                    "source": "OPPOADSDK",
+                    "startTime": "2020-10-01 00:00:00",
+                    "endTime": "2020-10-30 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "161798",
+                        "161799",
+                        "161778"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "161798",
+                            "pri": 1,
+                            "weight": 10,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161799",
+                            "pri": 1,
+                            "weight": 10,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161778",
+                            "pri": 1,
+                            "weight": 10,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 5399,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "interval": 0,
+                    "startPage": 0,
+                    "bookPrice": 1
+                },
+                {
+                    "dealId": "",
+                    "source": "OPPOADSDK",
+                    "startTime": "2020-10-01 00:00:00",
+                    "endTime": "2020-10-30 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "161822",
+                        "161823",
+                        "161826",
+                        "161824",
+                        "161825"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "161822",
+                            "pri": 6,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161823",
+                            "pri": 6,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161824",
+                            "pri": 6,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161825",
+                            "pri": 1,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        },
+                        {
+                            "appId": "161826",
+                            "pri": 6,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 7316,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "interval": 0,
+                    "startPage": 0,
+                    "bookPrice": 1
+                }
+            ],
+            "READ_CPT_TOP": null,
+            "READ_END": null,
+            "READ_TEXT": null,
+            "SCREEN": null,
+            "SEARCH": null,
+            "SELECT_BANNER": null,
+            "SELECT_FLOW": [
+                {
+                    "dealId": "",
+                    "source": "PPZT",
+                    "startTime": "2020-10-12 00:00:00",
+                    "endTime": "2020-10-30 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "000"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "000",
+                            "pri": 6,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 6480,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "bookPrice": 1
+                }
+            ],
+            "SIGN": null,
+            "VIDEO_ADFREE": null,
+            "VIDEO_CHAPTEREND": null,
+            "VIDEO_CHAPTEREND_FREE": [
+                {
+                    "dealId": "",
+                    "source": "SSP",
+                    "startTime": "2020-10-15 00:00:00",
+                    "endTime": "2020-10-23 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [
+                        "161865"
+                    ],
+                    "priority": [
+                        {
+                            "appId": "161865",
+                            "pri": 6,
+                            "weight": 1,
+                            "requestFailUpperLimit": 0,
+                            "recoverRequestTime": 0,
+                            "ecpmLevel": 0
+                        }
+                    ],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 7362,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "bookPrice": 1
+                }
+            ],
+            "VIDEO_EXITWINDOW": null,
+            "VIDEO_PAGES": [
+                {
+                    "dealId": "",
+                    "source": "OPPOADSDK",
+                    "startTime": "2020-10-28 00:00:00",
+                    "endTime": "2020-10-29 00:00:00",
+                    "filterId": 577,
+                    "isCircular": 0,
+                    "hasFloat": 0,
+                    "style": "",
+                    "week": [],
+                    "period": [],
+                    "appId": [],
+                    "priority": [],
+                    "userGroupId": 0,
+                    "targetUser": "",
+                    "id": 5413,
+                    "castRate": 0,
+                    "castInterval": 0,
+                    "custom": {
+                        "stayTime": 0,
+                        "stayStartChapter": 0,
+                        "stayProbability": 0,
+                        "sensitivity": 0,
+                        "smallAnim": 0,
+                        "smallAnimThreshold": 0,
+                        "redPoint": 0,
+                        "redPointThreshold": 0,
+                        "redPointText": ""
+                    },
+                    "bookPrice": 1
+                }
+            ],
+            "VIDEO_QUANBEN_FREE": null,
+            "VIDEO_RECHARGE": null,
+            "WELFARE": null,
+            "video_book": null,
+            "video_bookshelf": null,
+            "video_sign": null,
+            "SIGN_NEW_USER": null
+        },
+        "config": {
+            "videoAd": {
+                "CHOUJIANG": {
+                    "text": "观看视频，抽大转盘",
+                    "giftType": "wheel",
+                    "voucherAmount": 0,
+                    "chapterAmount": 0,
+                    "noAdTimeAmount": 0,
+                    "localBookMaxChapter": 20,
+                    "limitCount": 5,
+                    "timeInterval": 0,
+                    "perChapter": 3
+                },
+                "FREE_SIGN_VIDEO": null,
+                "LOCALBOOK_CHAPTEREND": null,
+                "OPPOLLQ_VIDEO_CHAPTEREND_PAY": {
+                    "text": "观看视频，送奖励",
+                    "giftType": "gold_coin",
+                    "voucherAmount": 1000,
+                    "chapterAmount": 0,
+                    "noAdTimeAmount": 0,
+                    "localBookMaxChapter": 20,
+                    "limitCount": 10,
+                    "timeInterval": 2,
+                    "perChapter": 3,
+                    "firstCopy": "主标题浏览器看视频送金币测试浏",
+                    "secondCopy": "副标题副标题浏览器看视频送金币测试浏览器",
+                    "imgUrl": "http://book.img.ireader.com/idc_1/group61/M00/1A/91/CmRaIV-IGkuEKK7jAAAAAN_Y8Ns548232975.png?v=37Lvdf1K&t=CmRaIV-IGks.",
+                    "buttonUrl": "http://book.img.ireader.com/idc_1/group61/M00/05/53/CmRabl9wBNSEA4NKAAAAAEPXWvQ574175724.png?v=CJC_4A_w&t=CmRabl9wBNQ.",
+                    "buttonCopy": "按钮文案浏览器看视频"
+                },
+                "OPPOLLQ_VIDEO_PAGES_PAY": {
+                    "text": "观看视频，送奖励",
+                    "giftType": "gold_coin",
+                    "voucherAmount": 1000,
+                    "chapterAmount": 0,
+                    "noAdTimeAmount": 0,
+                    "localBookMaxChapter": 20,
+                    "limitCount": 10,
+                    "timeInterval": 3,
+                    "perChapter": 3,
+                    "firstCopy": "主标题浏览器看视频送金币测试浏",
+                    "secondCopy": "副标题浏览器看视频送金币测试副标题测试测",
+                    "imgUrl": "http://book.img.ireader.com/idc_1/group61/M00/1A/99/CmRabl-IGiSELCEIAAAAAN_Y8Ns062385206.png?v=37Lvdf1K&t=CmRabl-IGiQ.",
+                    "buttonUrl": "http://book.img.ireader.com/idc_1/group61/M00/05/52/CmRaIV9wBHKEJ7xzAAAAAEPXWvQ764359024.png?v=CJC_4A_w&t=CmRaIV9wBHI.",
+                    "buttonCopy": "按钮文案看视频送金币"
+                },
+                "READ_CPT_END": null,
+                "READ_TEXT": null,
+                "VIDEO_ADFREE": null,
+                "VIDEO_CHAPTEREND": null,
+                "VIDEO_CHAPTEREND_FREE": {
+                    "text": "看小视频，免20秒广告",
+                    "giftType": "adless",
+                    "voucherAmount": 0,
+                    "chapterAmount": 0,
+                    "noAdTimeAmount": 20,
+                    "localBookMaxChapter": 20,
+                    "limitCount": 1,
+                    "timeInterval": 30,
+                    "perChapter": 3
+                },
+                "VIDEO_EXITWINDOW": null,
+                "VIDEO_PAGES": null,
+                "VIDEO_QUANBEN_FREE": null,
+                "VIDEO_RECHARGE": null
+            },
+            "video": {
+                "cacheTime": 600,
+                "exitWindow": {}
+            },
+            "pop": {
+                "exitWindow": {}
+            },
+            "chapterEnd": {
+                "limit": 30
+            },
+            "PAGES": {
+                "interval": 3
+            },
+            "ad": {
+                "isShow": true
+            }
+        },
+        "requestPolicy": [
+            {
+                "id": 50,
+                "preloadSingleRequestNum": 0,
+                "preloadStoreUpperLimit": 0,
+                "adPoolStoreUpperLimit": 2,
+                "adPoolTriggerRequestNum": 1,
+                "sdkSingleRequestNum": 1,
+                "adElementExpirationTime": 1800,
+                "flushTime": 30,
+                "requestMode": "",
+                "coldStrategyRefreshTime": 0,
+                "hotStrategyRefreshTime": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+"main" prio=5 tid=1 Blocked\
+  | group="main" sCount=1 dsCount=0 obj=0x748d8a98 self=0xab1dcbb8\
+  | sysTid=26892 nice=0 cgrp=default sched=0/0 handle=0xf7277bec\
+  | state=S schedstat=( 569684228 78887752 774 ) utm=35 stm=21 core=1 HZ=100\
+  | stack=0xff754000-0xff756000 stackSize=8MB\
+  | held mutexes=\
+  at i2.g.a(SourceFile:-1)\
+  - waiting to lock <0x3bde240f> (a i2.g) held by thread 20\
+  at i2.g.findClass(SourceFile:1)\
+  at i2.g.a(SourceFile:30)\
+  at i2.d.loadClass(SourceFile:6)\
+  at java.lang.ClassLoader.loadClass(ClassLoader.java:469)\
+  at j2.a.d(SourceFile:3)\
+  at j2.a.b(SourceFile:43)\
+  at j2.a.c(SourceFile:4)\
+  at com.zhangyue.iReader.app.APP.g(SourceFile:39)}
