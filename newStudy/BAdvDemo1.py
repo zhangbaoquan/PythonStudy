@@ -190,8 +190,33 @@ import json
 #     json.dump(nub, js)
 
 # 输出json文件的内容
-with open(json_path) as js:
-    txt = json.load(js)
-    print(txt)
+# with open(json_path) as js:
+#     txt = json.load(js)
+#     print(txt)
 
 # print(txt)
+
+import os
+
+# 判断一个目录是否存在
+# status = os.path.exists(json_path2)
+# print(status)
+
+focus_path = '/Users/zhangbaoquan/work/MyProject/python_work/PythonStudy/file2/'
+status = os.path.exists(focus_path)
+print(status)
+# 创建文件夹
+if status != True:
+   os.mkdir(focus_path)
+   print("创建文件夹")
+else:
+    print("文件夹已经存在")
+
+# 在文件夹下创建任意一个文件
+txt_path = focus_path + "haha2.html"
+# 直接打开一个文件，如果文件不存在则创建文件
+open(txt_path,'w')
+
+# 获取文件大小
+size = os.path.getsize(json_path)
+print(size)
